@@ -17,12 +17,19 @@
 
 3. DIAGRAMAS
 
+![.](IMG/D1.png)
+
+![.](IMG/D2.png)
 
 4. LISTA DE COMPONENTES
 
-| CANTIDAD|MATERIAL O EQUIPO|
-| ----- | ---- |
-|1|Calculadora cientifica|
+- Generador de señales
+- fuente DC
+- Osciloscopio
+- Protoboard
+- Multimetro
+- Cables conductores
+- Resistencias, bobinas y capacitores
 
 5. EXPLICACION 
 
