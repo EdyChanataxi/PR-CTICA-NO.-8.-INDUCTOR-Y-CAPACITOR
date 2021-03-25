@@ -29,7 +29,7 @@
 
 6. CONCLUCION
 
-- Los resultados obtenidos tanto analiticos como el el simuladro tienen una pequeña variacion, esto se debe a la utilizacion de los decimales mas que nada
+- Los resultados obtenidos tanto analiticos como el el simuladro tienen una pequeña variacion, esto se debe a la utilizacion de los decimales mas que nada ya que al ser un simuladro virtual los valores obtenidos no deberian variar
 
 7. BIBLIOGRAFIA
 
