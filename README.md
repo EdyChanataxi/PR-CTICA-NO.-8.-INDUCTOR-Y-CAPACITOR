@@ -21,6 +21,10 @@
 
 ![.](IMG/D2.png)
 
+![.](IMG/c1.png)
+
+![.](IMG/c2.png)
+
 4. LISTA DE COMPONENTES
 
 - Generador de señales
