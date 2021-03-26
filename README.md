@@ -15,6 +15,97 @@
 
 2. MARCO TEORICO
 
+### **• CAPACITOR** 
+
+Un capacitor o un condensador es un componente pasivo capaz de almacenar energía a través de campos eléctricos Este se clasifica dentro de los componentes pasivos ya que no corta el flujo eléctrico. El capacitor se encuentra en unidad de Faradios (F).
+
+![1](https://user-images.githubusercontent.com/76446982/112590401-cbfcfa00-8dd0-11eb-85ea-fed25cd62a93.png)
+
+**PARTES**
+
+Consta de tres partes esenciales:
+
+![2](https://user-images.githubusercontent.com/76446982/112590404-cef7ea80-8dd0-11eb-9862-5628560c03ac.png)
+
+**• Estructura o carcasa de plástico:** Cubre las partes internas del capacitor.
+
+**•	Dialéctico o aislante:** Evita el contacto entre las dos placas.
+
+**•	Placas metálicas:** Almacenan las cargas eléctricas.
+
+**FUNCIONAMIENTO**
+
+Inicialmente cada una de las placas internas tiene el mismo numero de electrones, y cuando conectamos una fuente de voltaje una de las placas pierde electrones y la otra placa los gana. Cuando el capacitor alcanza el mismo voltaje que la fuente de alimentación el movimiento de electrones se detiene.
+
+**TIPOS**
+
+* Electrolíticos
+
+![3](https://user-images.githubusercontent.com/76446982/112590408-d0291780-8dd0-11eb-843a-e394b723df42.png)
+
+* Cerámicos
+
+
+![4](https://user-images.githubusercontent.com/76446982/112590410-d15a4480-8dd0-11eb-802c-b4dddb3b2cb1.png)
+
+* De película
+
+![5](https://user-images.githubusercontent.com/76446982/112590420-d3bc9e80-8dd0-11eb-87f8-26f72aef4949.png)
+* De  mica
+
+![6](https://user-images.githubusercontent.com/76446982/112590424-d4edcb80-8dd0-11eb-9448-c1632c72b734.png)
+
+Para la práctica del presente informe hemos utilizado capacitores cerámicos, los cuales no tiene polaridad y tienen un código impreso en una de sus caras el cual siempre viene codificado en pico faradios. Sin embargo, los capacitores son bastante sensibles a los cambios de voltaje y temperatura.
+
+**CAPACITORES EN SERIE Y PARALELO**
+
+Los capacitores se pueden agrupar en serie o en paralelo para obtener un valor de capacitor equivalente o capacitor total. Estos valores se pueden calcular con las siguientes fórmulas:
+
+![7](https://user-images.githubusercontent.com/76446982/112590427-d61ef880-8dd0-11eb-93db-2a36cedd71ad.png)
+### **• INDUCTOR**
+
+Un inductor es un componente pasivo hecho de un alambre aislado que almacena energía en forma de campo magnético, debido al fenómeno de la autoinducción, el sentido del flujo del campo magnético se lo puede establecer con la ley de la mano derecha. El inductor se encuentran en valores de Henrios (H).
+
+
+![8](https://user-images.githubusercontent.com/76446982/112590432-d6b78f00-8dd0-11eb-9d11-fa76c340ba14.png)
+
+**PARTES**
+
+El inductor consta básicamente de las siguientes partes: 
+
+![9](https://user-images.githubusercontent.com/76446982/112590438-d7502580-8dd0-11eb-931f-8892080de569.png)
+**FUNCIONAMIENTO**
+
+Un inductor está constituido por una bobina de material conductor,  normalmente alambre o hilo de cobre esmaltado, el inductor almacena energía cuando aumenta la intensidad de corriente, devolviéndola cuando ésta disminuye. 
+
+**TIPOS**
+
+* Bobinas con núcleos de aire
+
+![10](https://user-images.githubusercontent.com/76446982/112590442-d9b27f80-8dd0-11eb-9d52-f8149ea25ea2.png)
+* Bobinas de núcleo de hierro
+
+![11](https://user-images.githubusercontent.com/76446982/112590445-dae3ac80-8dd0-11eb-933b-11d79f119f76.png)
+* Bobinas con núcleo de ferrita
+
+![12](https://user-images.githubusercontent.com/76446982/112590455-dd460680-8dd0-11eb-9031-364cdd170ee3.png)
+Para la práctica del presente informe hemos utilizado bobinas o inductores con núcleos de aire, los cuales tienen una baja inductancia y generalmente trabajan con señales eléctricas de alta frecuencia.
+
+**INDUCTORES EN SERIE Y PARALELO**
+
+Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de inductor equivalente o inductor total. Estos valores se pueden calcular con las siguientes fórmulas:
+
+* SERIE 
+
+![13](https://user-images.githubusercontent.com/76446982/112590458-de773380-8dd0-11eb-9811-fbb3a7c04099.png)
+
+![14](https://user-images.githubusercontent.com/76446982/112590461-dfa86080-8dd0-11eb-95f4-c24c01ab6180.png)
+* PARALELO
+
+![15](https://user-images.githubusercontent.com/76446982/112590466-e040f700-8dd0-11eb-84a6-f0d8e9e3e848.png)
+
+![16](https://user-images.githubusercontent.com/76446982/112590471-e0d98d80-8dd0-11eb-9c26-4ad20fc1edca.png)
+
 3. DIAGRAMAS
 
 ![.](IMG/D1.png)
