@@ -139,7 +139,10 @@ Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de
 - Repetimos las mismas variaciones y anotamos los resultados 
 1. Para cada uno de los circuitos anteriores, elvabore una tabla con los resultados de las diferentes mediociones de voltaje realizado con el osciloscopio y multimetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas
 
+![.](IMG/T1.png)
 
+
+Si nos fijamos en los valores del primer circuito notamos que mientras aumenta la frecuencia  tanto el voltaje pico como el rms van disminutendo y la corriente que pasa por la resistencia va en  aumento, y  en el segundo circuito ocurre lo contrario, mientras va aumentando la frecuencia los voltajes tambien van en aumento y la corriente va disminuyendo poco a poco
 
 2. ¿Como se comportan la bobina y el capacitor en corriente continua 0Hz?
 
