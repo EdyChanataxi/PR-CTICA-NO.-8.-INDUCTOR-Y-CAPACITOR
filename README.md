@@ -110,11 +110,11 @@ Los inductores se pueden agrupar en serie o en paralelo para obtener un valor de
 
 ![.](IMG/D1.png)
 
-![.](IMG/T111.png)
+![.](IMG/D2.png)
 
 ![.](IMG/c1.png)
 
-![.](IMG/c2.png)
+![.](IMG/T111.png)
 
 4. LISTA DE COMPONENTES
 
