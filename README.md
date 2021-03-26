@@ -146,7 +146,7 @@ Si nos fijamos en los valores del primer circuito notamos que mientras aumenta l
 
 2. ¿Como se comportan la bobina y el capacitor en corriente continua 0Hz?
 
-
+En corriente continua la bobina y el capasitor no pueden ser utilizados ya que en el caso del capacitor tendra una reactancia infinita  y se convertira en un circuito abierto y en el caso de la bobina ocurrira un cortocircuito y dejara que la corriente pase sin problema
 
 3. ¿Como se comporta la bobina y el capacitos en corrinte alterna?
 
